@@ -1,0 +1,52 @@
+.top-header{
+    display: flex;
+}
+.top-header__title{
+    font-size: 25px;
+    padding: 20px;
+    color:darkblue;
+    font-weight: bold;
+}
+.top-header__nav{
+    display: flex;
+    text-align: right;
+    font-size: 16px;
+    color: darkblue;
+    font-weight: bold;
+}
+.top-header__right{
+    margin: 15px 15px 0 auto;
+
+}
+.top-header__nav-list {
+    list-style-type: none;
+    left: -1.5em;
+    padding: 10px;
+}
+main{
+    display: block;
+}
+.card__smile-img{
+    width: 840px;
+    margin: 100px 0 0 auto;
+
+}
+.card__smile-img{
+    width:50%;
+
+}
+.card__smile-img img{
+    width: 100%;
+}
+.card__smile-title{
+    margin-top: -150px;
+    font-size: 60px;
+    font-weight: lighter;
+}
+.blue-box{
+    width: 75%;
+    height: 180px;
+    background-color: darkblue;
+
+}
+
